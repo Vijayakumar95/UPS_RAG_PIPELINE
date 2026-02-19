@@ -1,0 +1,12 @@
+langchain
+langgraph
+chromadb
+ollama
+pdfplumber
+pymupdf
+tiktoken
+streamlit
+tqdm
+pytesseract
+pillow
+pdf2image
